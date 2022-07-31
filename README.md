@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Vue JS and Flutter, 
+📫 You can reach me or say hi at ekosalvinus@gmail.com
