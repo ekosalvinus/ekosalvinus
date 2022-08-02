@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Vue JS and Flutter, 
+🌱 I’m love learning about website and mobile apps technology, 
 📫 You can reach me or say hi at ekosalvinus@gmail.com
