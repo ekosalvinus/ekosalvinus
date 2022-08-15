@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m love technology, especially about website and mobile apps technology,
-📫 You can reach me or say hi at ekosalvinus@gmail.com
+📫 You can reach me or say hi at ekosalvinus@gmail.com.
 
