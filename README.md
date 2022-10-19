@@ -7,13 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosalvinus&layout=compact)
 
-<a href="https://github.com/ekosalvinus/github-stats">
-<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
 <!--
 **ekosalvinus/ekosalvinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
