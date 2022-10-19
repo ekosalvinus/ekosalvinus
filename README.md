@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 🌱 I’m love technology, especially about website and mobile apps technology,
 📫 You can reach me or say hi at ekosalvinus@gmail.com.
-
-
+[![Ama github stats](https://github-readme-stats.vercel.app/api?username=ekosalvinus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosalvinus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
