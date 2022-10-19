@@ -3,13 +3,17 @@
 🌱 I’m love technology, especially about website and mobile apps technology,
 📫 You can reach me or say hi at ekosalvinus@gmail.com.
 
-[![Eko github stats](https://github-readme-stats.vercel.app/api?username=ekosalvinus)]
+![Eko github stats](https://github-readme-stats.vercel.app/api?username=ekosalvinus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosalvinus&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosalvinus&layout=compact)
 
-[![](https://raw.githubusercontent.com/ekosalvinus/github-stats/master/generated/overview.svg#gh-light-mode-only)]
+<a href="https://github.com/ekosalvinus/github-stats">
+<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/ekosalvinus/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
-[![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)]
 <!--
 **ekosalvinus/ekosalvinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
