@@ -4,7 +4,7 @@
 📫 You can reach me or say hi at ekosalvinus@gmail.com.
 
 ### :memo: Blog
-[Eko Salvinus](https://ekosalvinus.my.id)
+#### [Eko Salvinus](https://ekosalvinus.my.id)
 
 ![Eko github stats](https://github-readme-stats.vercel.app/api?username=ekosalvinus)
 
