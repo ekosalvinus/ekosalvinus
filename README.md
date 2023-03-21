@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Eko Salvinus
 
-🌱 I’m love technology, especially about website and mobile apps technology,
+🌱 I’m love technology, and i still learn how to code.
 📫 You can reach me or say hi at ekosalvinus@gmail.com.
 
 ### :memo: Blog
